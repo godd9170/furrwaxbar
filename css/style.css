@@ -141,7 +141,7 @@ a:hover {
 }
 
 .theme-bg {
-	background-color: #ff7701 !important;
+	background-color: #C842f4 !important; /* MAIN COLOUR NEW: #C842f4 OLD: #ff7701*/ 
 }
 
 .normalize-font-top {
@@ -439,7 +439,7 @@ h1 a.navbar-brand {
 
 section.featured {
 	padding: 200px 0 60px;
-	background: #e25098; /*Raspberry*/
+	background: #C842f4; /*Raspberry*/
 	color: #fdfdfd;
 }
 
