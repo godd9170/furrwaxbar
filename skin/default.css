@@ -1,73 +1,70 @@
 /*
 NEWEST
-#1 = #a913db #Shade
-#2 = #C842f4 #Purple
-NEW
-#1 = #d4237a #Shade
-#2 = #e25098 #Raspberry Pink
+#1 = #a913db #Shade #a0145c
+#2 = #C842f4 #Purple #BE136B
 OLD
 #1 = 35A49C
 #2 = 79CDC0 #Green
 */
 a {
-	color: #C842f4;
+	color: #BE136B;
 }
 a:hover {
-	color: #C842f4;
+	color: #a0145c;
 }
 
 /* menu */
 .nav>li>a:hover {
-	color: #C842f4;
+	color: #BE136B;
 }
 
 .navbar .navbar-nav > .active > a {
-	color: #C842f4;
+	color: #BE136B;
 }
 
 /* flexslider */
 .flex-control-paging li a {
-	background: #a913db;
+	background: #a0145c;
 }
 
 .flex-direction-nav a:hover{
-	background-color:#a913db;
+	background-color:#a0145c;
 }
 
 .testimonial span.author a {
-	color: #C842f4;
+	color: #BE136B;
 }
 
 /* --- icon box hover --- */
 .hi-icon-effect-5 .hi-icon {
-	color: #a913db;
-	box-shadow: 0 0 0 4px #a913db;
+	color: #a0145c;
+	box-shadow: 0 0 0 4px #a0145c;
 }
 .no-touch .hi-icon-effect-5 .hi-icon:hover {
-	background: #a913db;
-	box-shadow: 0 0 0 8px  #C842f4;
+	background: #a0145c;
+	box-shadow: 0 0 0 8px  #BE136B;
 }
 
 
 /* portfolio */
 .portfolio-item .portfolio-desc {
-	background: #a913db;
+	background: #a0145c;
 }
 
 /* btn */
 .btn-theme {
-  background: #C842f4;
+  background: #BE136B;
 }
 .btn-theme:hover,.btn-theme:focus,.btn-theme:active{
-  background: #a913db;
+  background: #a0145c;
 }
 .btn-cta,.btn-cta.btn-lg {
-  background: #a913db;
-  border-color: #C842f4;
+  background: #a0145c;
+  border-color: #BE136B;
 }
 
 .btn-cta:focus,.btn-cta:active{
-   border-color: #a913db;
+   border-color: #a0145c;
 }
 
 /* contact */
@@ -77,11 +74,11 @@ a:hover {
 
 /* footer */
 .social-circle li a {
-	background:#a913db;
+	background:#a0145c;
 }
 
 a.scrollup{
-	background:#a913db;
+	background:#a0145c;
 }
 
 #sendmessage {
