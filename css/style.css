@@ -7,6 +7,7 @@
 
 /* ==== Google font ==== */
 @import url('https://fonts.googleapis.com/css?family=Lato:400,300,700,900');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
 /* === fontawesome === */
 @import url('font-awesome.css');
 /* ==== overwrite bootstrap standard ==== */
@@ -28,7 +29,12 @@ body {
 	clear: both;
 }
 
-body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2 {
+	font-family: 'Cinzel', serif;
+	font-weight: 100;
+}
+
+body, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Lato', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
